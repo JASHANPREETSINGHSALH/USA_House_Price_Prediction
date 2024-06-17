@@ -16,7 +16,7 @@ The dataset used for this project was downloaded from Kaggle. You can access the
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/usa-house-price-prediction.git
+    git clone https://github.com/JASHANPREETSINGHSALH/USA_House_Price_Prediction.git
     cd usa-house-price-prediction
     ```
 
