@@ -27,7 +27,7 @@ The dataset used for this project was downloaded from Kaggle. You can access the
 
 3. Run the Flask app:
     ```sh
-    python app.py
+    python main.py
     ```
 
 4. Open your browser and go to `http://127.0.0.1:5000/`.
