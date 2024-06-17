@@ -43,10 +43,10 @@ The dataset used for this project was downloaded from Kaggle. You can access the
 
 ## Screenshots
 ### Home Page
-![Home Page](path_to_your_image_1)
+![Home Page](Images/home_page.png)
 
 ### Prediction Result
-![Prediction Result](path_to_your_image_2)
+![Prediction Result](Images/prediction_result.png)
 
 ## Model Training
 The model training involves the following steps:
